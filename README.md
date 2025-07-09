@@ -1,12 +1,12 @@
 
 # Pulse Oximeter Project
 
-This project demonstrates a portable, low-cost **Pulse Oximeter** using Arduino Nano, MAX30100 sensor, and an OLED display.
+This project demonstrates a portable, low-cost **Pulse Oximeter** using Arduino Uno, MAX30100 sensor, and an OLED display.
 
 ---
 
 ## 🧰 Components Used
-- Arduino Nano
+- Arduino Uno
 - MAX30100 Pulse Oximeter Sensor
 - 0.96" SSD1306 OLED Display (128x64)
 - Jumper Wires
